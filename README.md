@@ -17,3 +17,18 @@ working with text files. I also completed all the labs from Chapter 4 to Chapter
 · Chapter 8 (Searching & Archiving Data): Using grep for text search, the pipe (|) for connecting commands, and utilizing tar and gzip for packaging and compressing files.
 · Chapter 9 (Exploring Processes): Viewing active processes using ps and top, checking system logs in /var/log, and a basic introduction to package management (e.g., apt or yum).
 2026.6.8
+
+
+Linux Essentials Ch. 9-12:
+
+· Processes: ps, top, kill, nice – manage processes & logs in /var/log/
+· Text Editing: nano (simple) & vi (advanced) – edit config files
+· Scripting: #!/bin/bash + variables + if conditions + for loops – automate tasks
+· Security: root vs regular user, sudo, useradd, passwd
+
+Networking Basics (reviewed): IP, Mask, Gateway, DNS, ping, ip addr
+
+Done ✅
+
+2026.6.12
+
